@@ -1,0 +1,9 @@
+.grid{
+    width: 30px;
+    height: 30px;
+    border: solid 1px black;
+    cursor:pointer;
+    }
+body {
+    background-color: #CAFAFE;
+}    
